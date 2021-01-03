@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-01-02 14:48:24 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-02 04:13:18 -0300"
@@ -771,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-01-02 15:15:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-12-29 21:12:43 -0300"
@@ -912,6 +924,12 @@
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-12-27 23:49:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-01-02 14:48:24 -0300"
     },
     "done": true
   },
@@ -1083,6 +1101,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-01-03 01:32:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-12-27 23:54:36 -0300"
@@ -1207,6 +1231,7 @@
     "criteria": {
       "minecraft:forest": "2020-12-28 00:11:35 -0300",
       "minecraft:mountains": "2020-12-28 00:02:44 -0300",
+      "minecraft:taiga": "2021-01-02 14:51:39 -0300",
       "minecraft:desert_hills": "2020-12-28 00:02:01 -0300",
       "minecraft:taiga_hills": "2020-12-31 01:15:09 -0300",
       "minecraft:desert": "2020-12-27 23:23:24 -0300",
@@ -1340,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2021-01-02 17:06:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-12-29 21:57:29 -0300"
@@ -1367,6 +1398,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-12-29 18:05:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "pufferfish": "2021-01-02 15:15:05 -0300"
     },
     "done": true
   },
@@ -1400,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-01-02 15:15:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_nugget": "2020-12-28 00:14:39 -0300"
@@ -1408,7 +1451,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2020-12-29 17:56:33 -0300"
+      "minecraft:nether_wastes": "2020-12-29 17:56:33 -0300",
+      "minecraft:soul_sand_valley": "2021-01-02 23:49:00 -0300",
+      "minecraft:basalt_deltas": "2021-01-02 23:52:06 -0300"
     },
     "done": false
   },
@@ -1730,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-01-03 01:32:03 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-12-29 16:50:01 -0300"
@@ -1796,6 +1847,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2020-12-31 01:23:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-01-02 15:15:23 -0300"
     },
     "done": true
   },
@@ -2027,6 +2084,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-12-28 00:35:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-01-02 17:05:55 -0300"
     },
     "done": true
   },
@@ -2453,6 +2516,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-12-27 23:54:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-02 23:50:00 -0300"
     },
     "done": true
   },
@@ -2996,5 +3065,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2584
 }

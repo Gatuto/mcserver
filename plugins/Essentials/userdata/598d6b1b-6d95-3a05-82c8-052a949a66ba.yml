@@ -1,0 +1,28 @@
+lastAccountName: plcplc
+timestamps:
+  login: 1609641918846
+  logout: 1609649497665
+  lastteleport: 1609649386980
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 763.8645766866539
+  y: 67.0
+  z: -388.36129702913496
+  yaw: 150.79254
+  pitch: 0.89919
+logoutlocation:
+  world: world
+  x: 772.225804187401
+  y: 67.0
+  z: -365.87819725953995
+  yaw: -201.42914
+  pitch: 9.899803
+homes:
+  home:
+    world: world
+    x: 755.6308216508143
+    y: 70.0
+    z: -396.4893349635066
+    yaw: 283.53497
+    pitch: 26.999125

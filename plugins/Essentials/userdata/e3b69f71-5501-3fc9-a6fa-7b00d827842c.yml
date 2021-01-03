@@ -1,12 +1,23 @@
 lastAccountName: ilGaTu
 timestamps:
-  login: 1609582390428
-  logout: 1609582645651
+  login: 1609656404257
+  logout: 1609657133277
+  lastteleport: 1609617037465
+  kits:
+    firework: 1609653141866
+    tools: 1609653052776
 ipAddress: 127.0.0.1
 logoutlocation:
   world: world
-  x: 760.0296016308574
-  y: 80.0
-  z: -384.37404370957626
-  yaw: 246.39842
-  pitch: 21.913414
+  x: 764.1403576095641
+  y: 68.0
+  z: -394.0329725831987
+  yaw: -61.889404
+  pitch: 17.458979
+lastlocation:
+  world: world
+  x: 393.74919748384684
+  y: 71.0
+  z: -368.0861746810181
+  yaw: -24.654175
+  pitch: 12.9103985

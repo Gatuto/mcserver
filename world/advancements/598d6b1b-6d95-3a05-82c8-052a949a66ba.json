@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 23:24:54 -0300"
@@ -554,6 +560,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-01-01 20:03:06 -0300",
+      "minecraft:blaze": "2021-01-02 23:51:45 -0300",
       "minecraft:skeleton": "2020-12-28 00:10:22 -0300",
       "minecraft:ghast": "2020-12-29 21:35:35 -0300",
       "minecraft:hoglin": "2020-12-30 00:00:34 -0300",
@@ -564,13 +571,15 @@
       "minecraft:evoker": "2021-01-01 20:04:02 -0300",
       "minecraft:phantom": "2021-01-01 23:46:39 -0300",
       "minecraft:zombified_piglin": "2021-01-01 16:14:27 -0300",
+      "minecraft:wither_skeleton": "2021-01-02 23:59:42 -0300",
       "minecraft:husk": "2020-12-28 22:56:19 -0300",
       "minecraft:cave_spider": "2020-12-31 00:47:28 -0300",
       "minecraft:piglin": "2021-01-01 20:23:52 -0300",
       "minecraft:silverfish": "2020-12-29 00:00:26 -0300",
       "minecraft:enderman": "2020-12-29 23:26:07 -0300",
       "minecraft:zombie": "2020-12-28 20:19:06 -0300",
-      "minecraft:drowned": "2020-12-28 22:28:27 -0300"
+      "minecraft:drowned": "2020-12-28 22:28:27 -0300",
+      "minecraft:zombie_villager": "2021-01-02 14:31:49 -0300"
     },
     "done": false
   },
@@ -652,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2021-01-01 20:03:06 -0300"
@@ -697,6 +712,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-12-30 01:57:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
     },
     "done": true
   },
@@ -778,6 +799,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-01-03 00:00:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-12-27 23:48:28 -0300"
@@ -829,6 +856,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-12-28 00:22:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
     },
     "done": true
   },
@@ -1108,9 +1141,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-12-27 23:21:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
     },
     "done": true
   },
@@ -1576,6 +1621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2020-12-29 23:45:48 -0300"
@@ -1639,6 +1690,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-12-27 23:24:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-01-03 01:32:03 -0300"
     },
     "done": true
   },
@@ -1852,6 +1909,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-12-28 00:16:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-01-03 00:08:53 -0300"
     },
     "done": true
   },
@@ -2263,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-12-28 22:56:18 -0300"
@@ -2290,6 +2359,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-12-27 23:48:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-01-02 23:50:02 -0300"
     },
     "done": true
   },
@@ -2479,6 +2554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-01-03 00:08:53 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-12-29 23:40:58 -0300"
@@ -2545,6 +2626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-01-03 00:00:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-12-27 23:34:12 -0300"
@@ -2581,6 +2668,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-01-03 00:00:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2020-12-27 23:39:35 -0300"
@@ -2608,6 +2701,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-12-27 23:24:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2021-01-03 00:08:05 -0300"
     },
     "done": true
   },
@@ -2701,6 +2800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2021-01-03 00:08:05 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-12-27 23:31:05 -0300"
@@ -2785,5 +2890,5 @@
     },
     "done": true
   },
-  "DataVersion": 2580
+  "DataVersion": 2584
 }

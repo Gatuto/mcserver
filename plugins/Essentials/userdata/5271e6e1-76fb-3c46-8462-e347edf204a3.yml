@@ -1,0 +1,28 @@
+lastAccountName: sant1g
+timestamps:
+  login: 1609654485463
+  lastteleport: 1609649503021
+  logout: 1609654573944
+ipAddress: 192.168.1.80
+homes:
+  home:
+    world: world
+    x: 939.3072365977656
+    y: 75.0625
+    z: -376.7728743321839
+    yaw: -309.70502
+    pitch: 18.803143
+lastlocation:
+  world: world
+  x: 757.8093116914388
+  y: 67.0
+  z: -348.2567577092254
+  yaw: 20.137756
+  pitch: 17.438604
+logoutlocation:
+  world: world
+  x: 754.1126278827273
+  y: 70.0
+  z: -388.4419809122072
+  yaw: 84.38199
+  pitch: 17.434689
