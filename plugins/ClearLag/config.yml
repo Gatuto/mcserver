@@ -133,8 +133,8 @@ item-spawn-age-setter:
 # -- 'max-mobs' means how many bably/adult animals are allowed within the 'check-radius'
 # -- 'check-radius' is the radius of what clearlag will check for 'max-mobs'
 mob-breeding-limiter:
-  enabled: false
-  max-mobs: 6
+  enabled: true
+  max-mobs: 40
   check-radius: 15
 
 #Should clearlag purge logs under /logs when the server starts?
@@ -151,6 +151,7 @@ area-filter:
     - Villager
     - Horse
     - ARMOR_STAND
+    - Boat
 
 #Should clearlag reset the config, or attempt to update your config on updates
 # -- 'force-update' is whether or not clearlag will reset your config with a newer version
@@ -367,8 +368,6 @@ auto-removal:
     - Snowball
     - Egg
     - Fireball
-    - Boat !isMounted
-    - Minecart !isMounted
     - MINECART_TNT
   # - cow <- This mob-type will be REMOVED during removal!
   # - MINECART_MOB_SPAWNER
