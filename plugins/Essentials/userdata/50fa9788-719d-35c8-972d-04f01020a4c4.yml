@@ -1,0 +1,28 @@
+lastAccountName: Leu
+timestamps:
+  login: 1610135897851
+  lastteleport: 1609906418471
+  logout: 1610135912893
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world_the_end
+  x: -4888.230360918782
+  y: 65.66140120597676
+  z: 2165.1760098359973
+  yaw: 66.20896
+  pitch: 10.340377
+homes:
+  main:
+    world: world
+    x: 753.088185392973
+    y: 80.0
+    z: -386.1663281846435
+    yaw: 301.08997
+    pitch: 15.749144
+logoutlocation:
+  world: world
+  x: 748.7045799580056
+  y: 113.0
+  z: -386.4114237600923
+  yaw: -169.03926
+  pitch: 40.948875

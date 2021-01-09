@@ -1,8 +1,8 @@
 lastAccountName: sant1g
 timestamps:
-  login: 1609654485463
-  lastteleport: 1609649503021
-  logout: 1609654573944
+  login: 1609960178672
+  lastteleport: 1609964858763
+  logout: 1609964873789
 ipAddress: 192.168.1.80
 homes:
   home:
@@ -12,17 +12,31 @@ homes:
     z: -376.7728743321839
     yaw: -309.70502
     pitch: 18.803143
+  benju:
+    world: world
+    x: 756.4508323601503
+    y: 70.0
+    z: -393.52160290715756
+    yaw: -296.07028
+    pitch: 5.754492
+  creeper:
+    world: world
+    x: 2014.236029243301
+    y: 63.0
+    z: -655.5248373944794
+    yaw: 154.93756
+    pitch: 20.915905
 lastlocation:
-  world: world
-  x: 757.8093116914388
-  y: 67.0
-  z: -348.2567577092254
-  yaw: 20.137756
-  pitch: 17.438604
+  world: world_nether
+  x: 48.10832264639067
+  y: 61.0
+  z: -44.400681518939344
+  yaw: -180.74176
+  pitch: 9.3983755
 logoutlocation:
   world: world
-  x: 754.1126278827273
-  y: 70.0
-  z: -388.4419809122072
-  yaw: 84.38199
-  pitch: 17.434689
+  x: 940.2434896422393
+  y: 75.5
+  z: -376.8875600650119
+  yaw: -223.31061
+  pitch: 29.405712
